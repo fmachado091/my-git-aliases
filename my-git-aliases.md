@@ -10,3 +10,5 @@ alias.cam 'commit -am'
 
 alias.ri 'rebase -i'
 
+alias.cb 'checkout -b'
+
