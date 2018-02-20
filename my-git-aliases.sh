@@ -1,3 +1,4 @@
+#!/bin/bash
 git config --global alias.vv 'branch -vv'
 
 git config --global alias.undo 'reset --hard HEAD'
