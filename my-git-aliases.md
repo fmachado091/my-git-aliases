@@ -16,7 +16,7 @@ git config --global alias.ri2 'rebase -i HEAD~2'
 
 git config --global alias.ri3 'rebase -i HEAD~3'
 
-git config --global alias.cb 'checkout -b'
+git config --global alias.cob 'checkout -b'
 
 git config --global alias.st 'status'
 
