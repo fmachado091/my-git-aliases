@@ -1,14 +1,14 @@
 # my-git-aliases
 
-I love [git aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases) because they allow me to expand git functionallity, by adding either new commands or shortcuts for existing commands. I'll store in this repo the ones I use on a daily basis :)
+The [git aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases) I like the most :)
 
-### Run
+## Run
 
 ```bash
 $ bash my-git-aliases.sh
 ```
 
-### Result
+## Result
 
 You can check your git aliases on your `~/.gitconfig` file. It should include something like this:
 
@@ -27,4 +27,5 @@ You can check your git aliases on your `~/.gitconfig` file. It should include so
 	st = status
 	bd = branch -d
 	sap = stash apply
+	fap = fetch --all --prune
 ```

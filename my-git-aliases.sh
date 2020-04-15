@@ -24,3 +24,5 @@ git config --global alias.st 'status'
 git config --global alias.bd 'branch -d'
 
 git config --global alias.sap 'stash apply'
+
+git config --global alias.fap 'fetch --all --prune'
