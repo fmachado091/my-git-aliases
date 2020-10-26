@@ -21,8 +21,8 @@ git config --global alias.cob 'checkout -b'
 
 git config --global alias.st 'status'
 
-git config --global alias.bd 'branch -d'
+git config --global alias.bd 'branch -D'
 
-git config --global alias.sap 'stash apply'
+git config --global alias.sop 'stash pop'
 
 git config --global alias.fap 'fetch --all --prune'
